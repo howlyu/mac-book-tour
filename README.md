@@ -1,9 +1,6 @@
-# mac-book-tour
-show the tools in OS X when you first meet
-
 # Mac
 
-#### 通用工具
+### 通用工具
 > 大部分都需要收费
 
 1. [Alfred 2](https://www.macupdate.com/app/mac/34344/alfred)
@@ -22,9 +19,28 @@ HomeBrew安装的是源文件包，下载源文件、编译、安装，比如安
 HomeBrew－cask安装的是二进制软件包，比如QQ、Chorme等。安装软件时自动创建软链到application目录
 7. [Unclutter](http://unclutterapp.com/)
 剪贴板必备，记录剪贴的历史
-8. 
+8. [XtraFinder] Finder 扩展
+9. [KeyCue](http://www.ergonis.com/products/keycue/) 快捷键
+10. [CleanMyMac 2] 垃圾清理
+11. [Dropbox]
+12. [BetterZip] 压缩
+13. [The Unarchiver]解压
 
-#### 开发工具
+### 效率工具
+1. [Evernote](＃) 知识管理工具
+2. [OmniFocus](https://www.omnigroup.com/omnifocus) GTD,学习成本高
+3. [OmniGraffle](https://www.omnigroup.com/omnigraffle) 流程图
+4. [OmniOutliner](https://www.omnigroup.com/omnioutliner) 提纲思路
+5. [Mindnode Pro](https://mindnode.com) 脑图工具，也可以使用freemind or Xmind
+
+### VPN和翻墙工具
+
+1. [GreenVPN](https://www.igreenjsq.info/)Green网络加速器，注册后可免费体验200M
+2. [VPNSS](http://www.vpnss06.com) 可以使用vpn和ssh方式. vpnss提供多条代理线路，免费账户每天限制30M.
+3. [GoAgentX] 之前可用，现在停了
+4. [Tunnelblick]
+
+### 开发工具
 1. [iTerm2](http://iterm2.com/) + [oh-my-zsh](http://ohmyz.sh/)
 iterm2比系统自带的iterm好，再配合ohmyzsh一起使用，绝对是开发者必备
 ohmyzsh支持很多插件和主题
@@ -34,7 +50,7 @@ ohmyzsh支持很多插件和主题
 3. [Sublime Text 3]()
 4. [Mou](http://25.io/mou/)
 写markdown文档必备
-5. 
+5. []
 
 
 ### Tips
@@ -46,7 +62,8 @@ ohmyzsh支持很多插件和主题
 * [ios设计的神细节](http://www.zhihu.com/question/27351776/answer/36383913?group_id=565981083980734464)
 * [backup & recovery](https://github.com/pubyun/macdev/blob/master/recovery.md)
 
-#### 参考资料
+### 参考资料
 * [程序员如何优雅的使用mac?](http://www.zhihu.com/question/20873070)
 * [mac dev setup](https://github.com/nicolashery/mac-dev-setup#sublime-text)
 * [mactalk 人生元编程](http://www.duokan.com/book/40930)
+* []

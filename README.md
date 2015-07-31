@@ -50,7 +50,6 @@ ohmyzsh支持很多插件和主题
 3. [Sublime Text 3]()
 4. [Mou](http://25.io/mou/)
 写markdown文档必备
-5. []
 
 
 ### Tips
